@@ -1,4 +1,4 @@
-# elm snapshot tests
+# elm snapshot tests :camera:
 
 ## Installation
 
@@ -16,7 +16,7 @@ The Elm Update function of a program seems to be a great candidate for Snapshot 
 
 This library primary goal is to bring Snapshot Testing to Elm and facilitate business logic testing.
 
-Before ->
+Before :
 
 ```elm
 suite =
@@ -65,7 +65,7 @@ suite =
         ]
 ```
 
-After ->
+After : :rocket:
 
 ```elm
 tests =
